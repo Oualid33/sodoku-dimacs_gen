@@ -8,7 +8,7 @@
 /* 
 
 This function maps index (i,j,k) in the logical representation 
-to a linear index for the DIMAC format 
+to a linear index for the DIMACS format 
 
 */
 int index2nbr(int i, int j, int k) {
