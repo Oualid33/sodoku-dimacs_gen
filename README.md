@@ -1,4 +1,4 @@
-# sodoku-dimacs_gen
+# sudoku-dimacs_gen
 DIMACS Format Generator for Sodoku Problem
 Usage: compile using gcc:
 
